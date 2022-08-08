@@ -16,14 +16,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
 ![](./mobile_screenshot.png)
-
 ![](./desktop_screenshot.png)
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [https://github.com/ytsou1230/qr-code-component](https://github.com/ytsou1230/qr-code-component)
+=======
+- Solution URL: [https://github.com/ytsou1230/qr-code-component/](https://github.com/ytsou1230/qr-code-component/)
+>>>>>>> 9d052104cd8f94a294102c3fb762586d0280a7b4
 - Live Site URL: [https://ytsou1230.github.io/qr-code-component/](https://ytsou1230.github.io/qr-code-component/)
 
 ## My process
